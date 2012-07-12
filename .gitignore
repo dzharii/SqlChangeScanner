@@ -1,0 +1,13 @@
+obj/
+bin/
+Bin/
+*.chw
+*.pidb
+*.userprefs
+log.txt
+*.suo
+_ReSharper.*
+*.ReSharper.user
+*.bak
+*.csproj.user
+*.vcxproj.user
