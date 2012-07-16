@@ -24,7 +24,9 @@ After you delete the user and scan the database again, you might get the followi
 That means the USERS table was affected and the USER_PROFILES is not. So now you might raise a question: why the table USER_PROFILES was not changed? Does it collect a garbage information about already deleted users? 
 
 
-Please, see also a short [usage video]:
+Please, see also a short [usage video]
+
+
 [Overview in Russian]
 
   [usage video]: http://www.youtube.com/watch?feature=player_embedded&v=DBHAlUJAut8
