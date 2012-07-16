@@ -1,4 +1,4 @@
-markdown SQL Change Scanner
+SQL Change Scanner
 ==================
 Software testing tool for tracking SQL Server Database changes without affecting the Database itself.
 
@@ -25,8 +25,10 @@ That means the USERS table was affected and the USER_PROFILES is not. So now you
 
 
 Please, see also a short [usage video]:
-
+[Overview in Russian]
 
   [usage video]: http://www.youtube.com/watch?feature=player_embedded&v=DBHAlUJAut8
+  [Overview in Russian]: http://blog.zhariy.com/2012/07/sql-change-scanner-sql-server.html
+
 
 
